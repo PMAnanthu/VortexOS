@@ -33,7 +33,6 @@ puts:
 
 
 main:
-
 	; setup data segment
 	mov ax, 0   							; cant write data to es directly
 	mov ds, ax
